@@ -1,9 +1,8 @@
-try {
-  const env = require('./env.js')
-  env()
-} catch(e) {}
+require('dotenv').config();
 
 module.exports = {
-	client: 'pg',
-	connection: process.env.PG_CONNECTION_STRING
+  client: 'postgresql',
+  connection: {
+    database: process.env.PG_CONNECTION_STRING,
+  },
 };

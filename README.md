@@ -30,11 +30,10 @@ This custom data will be made up of "custom fields". Teams should be able to spe
 
 ### Installation
 
-- First, you need to create a new database in postgres that you will use to
-- Then, you need to create an env.js file add add the `PG_CONNECTION_STRING` environment variable to instruct the application how to connect to your local server.
+- `$ createdb pana_backend_challenge`
+- `$ cp .env.sample .env`
 - `$ npm install`
-- `$ knex db:migrate`
-- `$ knex seed:run`
+- `$ npm run db:init`
 - `$ npm start`
 
 ### Submission
