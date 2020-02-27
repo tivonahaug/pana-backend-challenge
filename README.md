@@ -17,6 +17,9 @@ This custom data will be made up of "custom fields". Teams should be able to spe
 - Enable users to specify their custom field values on a `POST /transactions` request.
 - Return the associated values of the custom fields on the `GET /transactions` request.
 
+#### Current State
+![Data Model](images/data_model.png) ![Sample Data](images/sample_data.png)
+
 #### Extra Credit
 
 - Handle invalid custom field values (for example, attempting to set a plain text value to a custom field which accepts a multiple choice value.)
