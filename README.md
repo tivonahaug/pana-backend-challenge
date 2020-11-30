@@ -18,6 +18,10 @@ Using the included API server and your code wizardry, the goal is to implement f
 
 The goal of this task is to build an understanding of how you would structure databases and APIs, so no coding is actually necessary. We will use a whimsical doc and `NOTES.md` to write out your thoughts.
 
+### Before You Get Started
+
+We recognize that doing anything within a tight time constraint is an extra level of challenge that you won't face in your day to day job as an engineer.  The goal of this challenge isn't for you to complete everything but for us to get a sense of how you solve problems, so if you don't end up finishing the "core requirements" in the time allotted that is not immediate cause for concern.  Please ask any clarifying questions and work through your thought process as visibly as possible.  We're excited to see what you create!
+
 ## Requirements
 
 ### Core Requirements
@@ -28,7 +32,7 @@ The goal of this task is to build an understanding of how you would structure da
   - Custom fields should have values that are either: (a) plain text or (b) single-select multiple choice. 
   - Businesses should be able to indicate what type of value each of their fields should accept.
 - Model endpoints for the creation, editing, viewing, and deletion of a business' custom field schema
-- Write an example query for getting all employees for a business with their custom field values.
+- Write an example(/pseudo) query for getting all employees for a business with their custom field values.
 - Model an example request for users to users to specify their custom field values on a `POST /employees/:employee_id` request.
 
 
