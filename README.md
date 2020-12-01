@@ -16,7 +16,7 @@ Other businesses may want more custom fields, other companies may want fewer.  T
 
 Using the included API server and your code wizardry, the goal is to implement functionality which allows custom data to be associated with a business' travel employees that are stored in the database.
 
-The goal of this task is to build an understanding of how you would structure databases and APIs, so no coding is actually necessary. We will use a whimsical doc and `NOTES.md` to write out your thoughts.
+The goal of this task is to build an understanding of how you would structure databases and APIs, so no coding is actually necessary. We will use `NOTES.md` to write out your thoughts. You can also use DbDiagram https://dbdiagram.io/home (you can create a diagram without signing in) or another visualization tool if you would find that helpful, but it is not required.
 
 ### Before You Get Started
 
