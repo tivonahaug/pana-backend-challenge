@@ -4,4 +4,4 @@ build
 .DS_Store
 env.js
 .env
-
+.vscode
