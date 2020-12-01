@@ -10,7 +10,7 @@ ABC Corp wants to store custom fields _Employee ID_ and _Cost Center_ with each 
 
 Dunder Mifflin wants to store custom fields _Sales Ranking_ and _Michael Scott Rating_. 
 
-Other businesses may want more custom fields, other companies may want fewer.  There may be between 0 to N custom fields per business.
+Other businesses may want more custom fields, other companies may want fewer.  There may be between 0 to N custom fields per business. The solution you choose should support these other businesses' custom fields without requiring additional engineering work.
 
 ## The Challenge
 
