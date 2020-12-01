@@ -26,7 +26,7 @@ We recognize that doing anything within a tight time constraint is an extra leve
 
 ### Core Requirements
 
-- Implement a method to store custom data related to an employee.
+- Design a schema to store custom data related to an employee.
   - Each business may have an arbitrary number of custom fields.
   - Each business needs to be able to assign a custom name to each of their fields.
   - Custom fields should have values that are either: (a) plain text or (b) single-select multiple choice. 
