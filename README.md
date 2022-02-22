@@ -1,12 +1,12 @@
-# Pana Backend Code Challenge
+# Coupa Travel Backend Code Challenge
 
 ## The Brief
 
-Pana contracts with a number of different businesses (_businesses_ table) to supply their travel needs.  Each of those businesses have a number of employees (_employees_ table) which can access Pana in order to schedule, book, and modify their upcoming trips. However, each business has unique information they want to store about individual employees in Pana.  This information will help them track their travel and do month end reconciliation. 
+Coupa Travel contracts with a number of different businesses (_businesses_ table) to supply their travel needs.  Each of those businesses have a number of employees (_employees_ table) which can access Coupa Travel in order to schedule, book, and modify their upcoming trips. However, each business has unique information they want to store about individual employees in Coupa Travel.  This information will help them track their travel and do month end reconciliation. 
 
 For example:
 
-ABC Corp wants to store custom fields _Employee ID_ and _Cost Center_ with each of their employees. (The employee id is ABC's internal id, not Pana's).
+ABC Corp wants to store custom fields _Employee ID_ and _Cost Center_ with each of their employees. (The employee id is ABC's internal id, not Coupa Travel's).
 
 Dunder Mifflin wants to store custom fields _Sales Ranking_ and _Michael Scott Rating_. 
 
@@ -14,9 +14,7 @@ Other businesses may want more custom fields, other companies may want fewer.  T
 
 ## The Challenge
 
-Using the included API server and your code wizardry, the goal is to implement functionality which allows custom data to be associated with a business' travel employees that are stored in the database.
-
-The goal of this task is to build an understanding of how you would structure databases and APIs, so no coding is actually necessary. We will use `NOTES.md` to write out your thoughts. You can also use DbDiagram https://dbdiagram.io/home (you can create a diagram without signing in) or another visualization tool if you would find that helpful, but it is not required.
+The goal of this task is to build an understanding of how you would structure databases and APIs, so no coding is actually necessary. We will use `NOTES.md` to write out your thoughts. You can also use DbDiagram https://dbdiagram.io/home (you can create a diagram without signing in and we provide the starter schema in starterSchema.txt) or another visualization tool if you would find that helpful, but it is not required.
 
 ### Before You Get Started
 
