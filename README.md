@@ -21,7 +21,7 @@ You can screen share a text editor of your choice to show your thoughts. You cou
 
 ### Before You Get Started
 
-We recognize this is challenging, the goal isn't for you to complete everything but for us to get a sense of how you solve problems, so if you don't finish all "core requirements", don't worry.  Please ask any clarifying questions and work through your thought process as visibly as possible.  We're excited to see what you create!
+We recognize this is challenging. The goal isn't for you to complete everything but for us to get a sense of how you solve problems, so if you don't finish all "core requirements", don't worry.  Please ask any clarifying questions and work through your thought process as visibly as possible.  We're excited to see what you create!
 
 ## Requirements
 
