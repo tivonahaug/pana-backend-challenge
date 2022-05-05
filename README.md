@@ -15,7 +15,7 @@ Other businesses may want more custom fields, other companies may want fewer.  T
 
 ## The Challenge
 
-The goal of this task is to build a database schema, and apis for storing these custom fields. You can use SQL or NoSQL, but we'd like to know how you plan on storing this new data we want to store in the database and serve up to the frontend.
+The goal of this task is to build a database schema, and apis for storing these custom fields. You can use SQL or NoSQL, but we'd like to know how you plan on storing this new data in the database and serve up to the frontend.
 
 You can screen share a text editor of your choice to show your thoughts. You could use DbDiagram https://dbdiagram.io/home (you can create a diagram without signing in and we provide the starter schema in starterSchema.txt) or another tool if you would find that helpful.
 
