@@ -4,6 +4,7 @@
 
 Coupa Travel contracts with a number of different businesses (_businesses_ table) to supply their travel needs.  Each business has a number of employees (_employees_ table) which can access Coupa Travel in order to schedule, book, and modify their upcoming trips. However, each business has unique information they want to store about individual employees in Coupa Travel. 
 
+
 For example:
 
 ABC Corp wants to store custom fields _Employee ID_ and _Cost Center_ with each of their employees. (The employee id is ABC's internal id, not Coupa Travel's).
